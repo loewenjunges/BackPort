@@ -1,0 +1,11 @@
+{
+  "Group": "de.loewenjunges.hytale",
+  "Name": "BackPort",
+  "Version": "1.0-SNAPSHOT",
+  "Description": "Teleports you to your last position or your last death position.",
+  "Authors": [
+    {"Name": "Loewenjunges"}
+  ],
+  "Main": "de.loewenjunges.hytale.backport.BackPort",
+  "ServerVersion": "2026.02.19-1a311a592"
+}
